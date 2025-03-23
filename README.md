@@ -28,7 +28,7 @@ Combines streams from other addons into one and provides much greater customisat
 - Filter all results by resolution, quality, visual tags, audio tags, encodes.
 - Remove duplicate results, and prioritise specific services for a given file.
 - Sort all results by quality, resolution, size, cached, visual tags, audio tags, encodes, seeders, service, language
-- Prioritise or exclude specific languages
+- Prioritize or exclude specific languages
 - Specify a minimum and/or maximum size
 - Limiting to a specific number of results per resolution
 - Proxy your streams with MediaFlow
